@@ -1,6 +1,6 @@
 {
   "name": "botsnova/chatbase",
-  "description": "Botsnova for Chatbase is the PHP SDK for Chatbase analytics",
+  "description": "Botsnova for Chatbase is the PHP SDK for Chatbase analytics.",
   "type": "library",
   "license": "Apache-2.0",
   "require": {
