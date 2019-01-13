@@ -1,0 +1,32 @@
+bower_components/
+#Deus/
+#docs/
+tmp/
+log/
+node_app/
+node_modules/
+# privacy/
+#pwa/my-app
+#pwa/demo1
+#pwa/demo2
+#pwa/demo3
+#pwa/demo4
+#pwa/demo5
+#pwa/designer
+python/
+# /assets/
+sdks/
+#system/
+# tpl/
+urAD.deprecated/
+vendor/
+composer.phar
+.idea/
+#.gitignore
+composer.lock
+# bower.json
+.DS_Store
+test/Botsnova/
+
+
+sites.deprecated/
