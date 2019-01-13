@@ -22,7 +22,7 @@
       "Chatbase": "src/"
     },
     "psr-4": {
-      "Botsnova\\Chatbase\\": "src/"
+      "Chatbase\\": "src/"
     }
   }
 }
