@@ -18,11 +18,8 @@
     }
   ],
   "autoload": {
-    "psr-0": {
-      "Chatbase": "src/"
-    },
     "psr-4": {
-      "Chatbase\\": "src/"
+      "Botsnova\\Chatbase\\": "src/"
     }
   }
 }
